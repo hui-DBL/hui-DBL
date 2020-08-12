@@ -1,6 +1,4 @@
-## NullPointerException 😳
-
-![image](https://github.com/zlukawa/zlukawa/blob/master/packman.jpg)
+![image](./packman.jpg)
 <!--
 **zlukawa/zlukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
